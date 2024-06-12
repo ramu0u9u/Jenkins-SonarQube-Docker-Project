@@ -1,4 +1,3 @@
 FROM nginx
 COPY . /usr/share/nginx/html/
-Copy . index.html
-COPY . style.css
+COPY . /usr/share/nginx/css/
