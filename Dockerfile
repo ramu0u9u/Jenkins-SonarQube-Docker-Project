@@ -1,3 +1,3 @@
 FROM nginx
 COPY index.html .
-COPY styles.css .
+COPY style.css .
